@@ -4,7 +4,13 @@
 
 ### * CAMI2 marine (N = 10)
 
-### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oraldermal, vaginal and building; N = 25)
+
+
+Please refer to more details on CAMI 2 Challenge at https://cami-challenge.org/cami-ii/
+
+### * Simulated microbial communities from five representative environmental habitats (gastrointestinal, oral, dermal, vaginal, and building; N = 25)
+
+
 
 **Data availability:** The simulated dataset can be downloaded from https://figshare.com/projects/Challenges_in_Benchmarking_Metagenomic_Profilers/79916.
 
